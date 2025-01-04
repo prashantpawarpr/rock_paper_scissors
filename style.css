@@ -9,3 +9,12 @@
   margin: 10px;
   border: 10px solid pink;
 }
+
+.btn {
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: mintcream;
+  color: black;
+  font-size: 20px;
+  margin: 10px;
+}

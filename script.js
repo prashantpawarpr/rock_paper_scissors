@@ -3,6 +3,10 @@ const btn1 = document.createElement("button");
 const btn2 = document.createElement("button");
 const btn3 = document.createElement("button");
 
+btn1.classList.add("btn");
+btn2.classList.add("btn");
+btn3.classList.add("btn");
+
 btn1.textContent = "rock";
 btn2.textContent = "paper";
 btn3.textContent = "scissor";
