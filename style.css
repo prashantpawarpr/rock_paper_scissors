@@ -1,0 +1,11 @@
+.div {
+  text-align: center;
+  color: white;
+  background-color: black;
+  width: 500px;
+  height: 100px;
+  padding-top: 50px;
+  font-size: 40px;
+  margin: 10px;
+  border: 10px solid pink;
+}
